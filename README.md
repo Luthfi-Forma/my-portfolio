@@ -1,4 +1,4 @@
-# Dokumentasi Templat Portofolio Urban Planning, Architecture & Mapping
+# Project Portfolio Presentation
 
 ## Daftar Isi
 1. [Pengenalan](#pengenalan)
@@ -12,7 +12,7 @@
 
 ## Pengenalan
 
-Templat portofolio ini dirancang khusus untuk profesional di bidang Urban Planning, Architecture, dan Mapping. Template ini menggabungkan desain modern, responsif, dan fungsionalitas yang komprehensif untuk menampilkan karya dan layanan secara profesional.
+ portofolio ini dirancang khusus untuk profesional di bidang Urban Planning, Architecture, dan Mapping. Template ini menggabungkan desain modern, responsif, dan fungsionalitas yang komprehensif untuk menampilkan karya dan layanan secara profesional.
 
 ### Target Pengguna
 - Urban Planner
